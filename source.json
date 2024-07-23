@@ -1,7 +1,7 @@
 {
-    "name":"Workflow Tools",
+    "name":"GabSith's Tools",
     "id":"com.gabsith.wft",
-    "url":"https://gabsith.github.io/wft-listing/index.json",
+    "url":"https://gabsith.github.io/GabSith-VCC-Listing/index.json",
     "author":{
         "email":"support@gabsith.com",
         "name":"GabSith",
@@ -9,7 +9,7 @@
     },
     "description":"Some tools for VRChat avatar creation to help you speed up your workflow.",
     "infoLink":{
-        "url":"https://github.com/GabSith/wft-listing",
+        "url":"https://github.com/GabSith/GabSith-VCC-Listing",
         "text":"View on GitHub"
     },
     "bannerUrl":"banner.png",
